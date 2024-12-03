@@ -1,0 +1,17 @@
+.oddNum {
+    background-color: rgba(228, 23, 15, 0.911);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.oddNum.cooler {
+    font-size: 24px;
+}
+
+#secNum {
+    color: #2323f3;
+    font-size: 36px;
+}
+
+#evenNum {
+    background-color:rgb(127, 255, 212);
+}
